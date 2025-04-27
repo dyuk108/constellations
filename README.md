@@ -11,4 +11,4 @@
 
 Кодировка: `utf-8`, разделители - запятые.
 ## Границы созвездий
-Существует замечательный каталог границ ["Catalogue of Constellation Boundary Data" Davenhall A.C., Leggett S.K.](ftp://cdsarc.u-strasbg.fr/0/cats/VI/49) 
+Существует замечательный каталог границ "[Catalogue of Constellation Boundary Data](ftp://cdsarc.u-strasbg.fr/0/cats/VI/49)" Davenhall A.C., Leggett S.K.
